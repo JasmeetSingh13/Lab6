@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">scorekeeping app</string>
+    <string name="score_text1">0</string>
+    <string name="Button1">Increase the score</string>
+    <string name="Button2">Decrease the score</string>
+    <string name="Score2" >Score2</string>
+    <string name="Score1">Score1</string>
+    <string name="Score_text2">0</string>
+    <string name="Button3">Increase the value</string>
+    <string name="Button4">Decrease the value</string>
+    <string name="Textview1">Scorekeeping App</string>
+    <string name="RadioButton1">Increase by 5</string>
+    <string name="RadioButton2">Increase by 10</string>
+    <string name="RadioButton3">Increase by 15</string>
+</resources>

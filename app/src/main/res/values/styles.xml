@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <color name="ColorPrimary">@color/primaryColorpink</color>
+        <color name="primaryColorYellow">#ffeb3b</color>
+
+    </style>
+    <style name = "textView1">
+        <item name ="android:textColor">#0000ff</item>
+        <item name ="android:textSize">50sp</item>
+        <item name="android:background">@android:color/holo_green_light</item>
+
+    </style>
+<style name="LinearLayout">
+    <item name="android:background">@color/primaryColor</item>
+
+</style>
+    <style name = "textView2">
+        <item name ="android:textColor">#ec407a</item>
+        <item name ="android:textSize">30sp</item>
+        <item name="android:background">#ffeb3b</item>
+
+    </style>
+
+<style name = "Button">
+<item name ="android:textColor">#ff9800</item>
+<item name ="android:textSize">30sp</item>
+<item name="android:background">#bf360c</item>
+
+</style>
+    <style name = "Button2">
+        <item name ="android:textColor">#ff9800</item>
+        <item name ="android:textSize">30sp</item>
+        <item name="android:background">#663e8c</item>
+
+    </style>
+    <style name = "RadioButton">
+
+        <item name ="android:textSize">40sp</item>
+        <item name="android:background">#d8aab0</item>
+
+    </style>
+    <style name = "RadioButton2">
+
+    <item name ="android:textSize">40sp</item>
+    <item name="android:background">#d84400</item>
+
+</style>
+    <style name = "RadioButton3">
+
+        <item name ="android:textSize">40sp</item>
+        <item name="android:background">#bdd897</item>
+
+    </style>
+</resources>
